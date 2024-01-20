@@ -1,0 +1,7 @@
+pillow
+torch
+torchvision
+pytorch-lightning
+diffusers
+torchmetrics
+lpips
