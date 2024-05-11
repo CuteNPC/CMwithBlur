@@ -1,6 +1,6 @@
 # Consistency Model with Blurring Noise 😋
 
-Final Report of Fundamentals of Generative Modeling at PKU 2023 fall.
+Final Project of Fundamentals of Generative Modeling at PKU 2023 fall.
 
 ## Environment requirements 🔨
 
